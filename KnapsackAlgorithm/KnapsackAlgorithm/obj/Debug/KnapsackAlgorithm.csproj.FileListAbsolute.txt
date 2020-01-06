@@ -1,0 +1,18 @@
+D:\git hub\Knapsack algorithm\KnapsackAlgorithm\KnapsackAlgorithm\bin\Debug\KnapsackAlgorithm.exe.config
+D:\git hub\Knapsack algorithm\KnapsackAlgorithm\KnapsackAlgorithm\bin\Debug\KnapsackAlgorithm.exe
+D:\git hub\Knapsack algorithm\KnapsackAlgorithm\KnapsackAlgorithm\bin\Debug\KnapsackAlgorithm.pdb
+D:\git hub\Knapsack algorithm\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.csprojResolveAssemblyReference.cache
+D:\git hub\Knapsack algorithm\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.Form1.resources
+D:\git hub\Knapsack algorithm\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.Properties.Resources.resources
+D:\git hub\Knapsack algorithm\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.csproj.GenerateResource.Cache
+D:\git hub\Knapsack algorithm\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.exe
+D:\git hub\Knapsack algorithm\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.pdb
+D:\git hub\Knapsack algorithm C#\KnapsackAlgorithm\KnapsackAlgorithm\bin\Debug\KnapsackAlgorithm.exe.config
+D:\git hub\Knapsack algorithm C#\KnapsackAlgorithm\KnapsackAlgorithm\bin\Debug\KnapsackAlgorithm.exe
+D:\git hub\Knapsack algorithm C#\KnapsackAlgorithm\KnapsackAlgorithm\bin\Debug\KnapsackAlgorithm.pdb
+D:\git hub\Knapsack algorithm C#\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.csprojAssemblyReference.cache
+D:\git hub\Knapsack algorithm C#\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.Form1.resources
+D:\git hub\Knapsack algorithm C#\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.Properties.Resources.resources
+D:\git hub\Knapsack algorithm C#\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.csproj.GenerateResource.cache
+D:\git hub\Knapsack algorithm C#\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.exe
+D:\git hub\Knapsack algorithm C#\KnapsackAlgorithm\KnapsackAlgorithm\obj\Debug\KnapsackAlgorithm.pdb
